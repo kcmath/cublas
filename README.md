@@ -7,4 +7,4 @@ A minimal demonstration of cuBLAS (Cuda C)
 * saxpy.cu - compute y = alpha*x + y (single precision)
 * snrm2.cu - Eucliden norm of x
 
-## cuBLAS level 1
+## cuBLAS level 2

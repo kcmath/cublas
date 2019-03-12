@@ -8,3 +8,5 @@ A minimal demonstration of cuBLAS (Cuda C)
 * snrm2.cu - Eucliden norm of x
 
 ## cuBLAS level 2
+
+## cuBLAS level 3

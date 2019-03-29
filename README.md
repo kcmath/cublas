@@ -8,6 +8,7 @@ A minimal demonstration of cuBLAS (Cuda C)
 * snrm2.cu - Eucliden norm of x
 
 ## cuBLAS level 2
-* sgemv.cu - matrix vector multiplication
+* sgemv.cu - matrix-vector multiplication
 
 ## cuBLAS level 3
+* sgemm.cu - matrix-matrix multiplication
